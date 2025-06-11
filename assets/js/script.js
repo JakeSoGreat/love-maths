@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
         })
     }
 
-    runeGame("addition");
+    runGame("addition");
 })
 
 /**
